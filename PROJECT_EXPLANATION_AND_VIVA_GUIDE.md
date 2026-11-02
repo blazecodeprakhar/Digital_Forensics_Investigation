@@ -73,8 +73,7 @@ In any forensic evaluation, teachers always evaluate you on these three foundati
 * **Suspect:** Senior Enterprise Systems Administrator, Apex Corporate Holdings.
 * **Incident Alert:** Security Operations Center (SOC) detected unauthorized mass storage enumeration on a high-security internal database server.
 * **Seized Device:** SanDisk Removable Storage Device (Item `ITEM-01`), 1.41 MB capacity, formatted in FAT12.
-* **Lead Investigators:** Sanskar Kanoujia, Prakhar Yadav ([blazecodeprakhar](https://github.com/blazecodeprakhar)), Ami Sheikh.
-* **Supervising Faculty:** Dr. Kirti Gupta, School of Computing, DIT University.
+* **Lead Forensic Examiner:** Prakhar Yadav ([blazecodeprakhar](https://github.com/blazecodeprakhar))
 
 ---
 
@@ -181,11 +180,11 @@ AC-9118,Nexus Defense Systems,35000000,TOP_SECRET_NX1
 
 ### Step 7: Chain of Custody & Legal Admissibility
 Any forensic finding is worthless in court without a verified Chain of Custody. Our ledger tracks:
-1. **Physical Device (ITEM-01):** Seized from suspect by CSIRT, locked in anti-static Faraday evidence bag.
-2. **Raw Disk Image (ITEM-02):** Created by Sanskar Kanoujia, verified by Prakhar Yadav, SHA-256 recorded.
-3. **Working Copy (ITEM-03):** Transferred to Ami Sheikh for tamper-testing; master hash matched.
+1. **Physical Device (ITEM-01):** Seized from suspect by incident response team, secured in anti-static evidence bag.
+2. **Raw Disk Image (ITEM-02):** Created under write-blocker isolation, verified by primary examiner, SHA-256 recorded.
+3. **Working Copy (ITEM-03):** Verified duplicate copy used for tamper-testing; master hash matched.
 4. **Carved Artifact (ITEM-04):** Extracted client database with independent SHA-256 checksum.
-5. **Final Judicial Report (ITEM-05):** Submitted to Dr. Kirti Gupta.
+5. **Final Judicial Report (ITEM-05):** Master forensic report package verified and sealed.
 
 **Statutory Admissibility:** Admissible under **Section 65B of the Indian Evidence Act** and **Federal Rules of Evidence (FRE) Rule 902(11)/(14)** for self-authenticating digital records.
 

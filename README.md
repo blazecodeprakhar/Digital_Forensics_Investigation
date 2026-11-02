@@ -10,18 +10,6 @@ Developed as part of the academic curriculum for the **Bachelor of Technology in
 
 ---
 
-## 👥 Project Team & Supervision
-
-* **Students / Forensic Investigators:**
-  * **Sanskar Kanoujia** (Student ID: 1000024911)
-  * **Prakhar Yadav** (Student ID: 1000024015)
-  * **Ami Sheikh** (Student ID: 1000024616)
-  * **Batch / Section:** Section Q, Group G4
-* **Faculty Supervisor:**
-  * **Dr. Kirti Gupta**, Assistant Professor, School of Computing
-
----
-
 ## 📌 Case Scenario Overview (Case #DF-2026-INV12)
 
 * **Incident:** An employee suspected of corporate espionage and unauthorized data exfiltration connected a removable flash device to a restricted corporate workstation, attempting to steal classified defense client portfolios and system architectural schematics.
