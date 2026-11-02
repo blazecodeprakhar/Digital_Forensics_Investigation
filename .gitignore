@@ -1,3 +1,7 @@
+# Local tools & applications
+hxd_app/
+hxd_bin/
+
 # Python cache
 __pycache__/
 *.py[cod]
