@@ -1,16 +1,9 @@
-# Local binaries & tools
-hxd_app/
-hxd_bin/
-
-# Draft notes
-PROJECT_EXPLANATION_AND_VIVA_GUIDE.md
-
-# Python bytecode
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 
-# OS / Editor temporary files
+# OS & IDE temporary files
 .DS_Store
 Thumbs.db
 .vscode/
