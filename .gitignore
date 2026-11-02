@@ -1,0 +1,14 @@
+# Local binaries & tools
+hxd_app/
+hxd_bin/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
