@@ -1,6 +1,10 @@
 # Digital Forensics Mini Investigation with Chain of Custody and Report
 
-A practical end-to-end digital forensics investigation simulating real-world physical evidence acquisition, cryptographic hash verification, file system parsing, extension mismatch detection, and deleted file carving.
+> 🎓 **Master Viva & Project Explanation Handbook:**  
+> Read the complete 0-to-100 technical breakdown, methodology explanation, and 35+ Viva Voce questions & answers in [**`PROJECT_EXPLANATION_AND_VIVA_GUIDE.md`**](PROJECT_EXPLANATION_AND_VIVA_GUIDE.md)  
+> *Authored by: [https://github.com/blazecodeprakhar](https://github.com/blazecodeprakhar)*
+
+---
 
 Developed as part of the academic curriculum for the **Bachelor of Technology in Cybersecurity and Privacy**, School of Computing, **DIT University, Dehradun**.
 
