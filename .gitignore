@@ -2,6 +2,10 @@
 hxd_app/
 hxd_bin/
 
+# Local guides & preparation files
+PROJECT_EXPLANATION_AND_VIVA_GUIDE.md
+*.pdf
+
 # Python bytecode
 __pycache__/
 *.py[cod]
